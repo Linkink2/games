@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6"
+  },
+  "include": [
+    "*.js",
+    "**/*.js",
+    "g:\\Shared drives\\TR Comp Sci\\VSCode Extensions\\samplavigne.p5-vscode-1.2.16\\p5types\\global.d.ts"
+  ]
+}
